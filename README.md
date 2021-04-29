@@ -1,8 +1,6 @@
 # Customer-Churn-Prediction
- predicting customer churn at a fictitious wireless telecom company and use insights from the model to develop an incentive plan for enticing would - be churners to remain with company.
+ Author Name: Tanu Bhandari
 
-
-### Objective
 When a customer applies for a loan, banks and other credit providers use statistical models to determine whether or not to grant the loan based on the likelihood of
 the loan being repaid. The factors involved in determining this ikelihood are complex, and extensive statistical analysis and modeling are required to predict the outcome for each individual case. Implement a model that predicts loan repayment or default based on the data provided.
 
